@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/bookshop_13.h
+iostream
+-
+string.h
+-
+typeinfo
+-
+
+/home/per/projects/bookshop/main.cpp
+iostream
+-
+string.h
+-
+typeinfo
+-
+bookshop_13.h
+/home/per/projects/bookshop/bookshop_13.h
+
+/home/per/projects/bookshop/src/bookshop_13.cpp
+iostream
+-
+string.h
+-
+typeinfo
+-
+bookshop_13.h
+/home/per/projects/bookshop/src/bookshop_13.h
+

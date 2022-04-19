@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/bookshop.dir/main.cpp.o CMakeFiles/bookshop.dir/src/bookshop_13.cpp.o  -o bookshop 
